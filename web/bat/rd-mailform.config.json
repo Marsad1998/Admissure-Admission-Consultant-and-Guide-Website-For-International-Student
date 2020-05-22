@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.admissure.com",
+  "port": 465,
+  "username": "support@admissure.com",
+  "password": "Raj100##",
+  "recipientEmail": "support@admissure.com"
+}
